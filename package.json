@@ -36,7 +36,7 @@
     "crypto-browserify": "^3.0.0",
     "defined": "^1.0.0",
     "deps-sort": "^2.0.0",
-    "domain-browser": "^1.2.0",
+    "domain-browser": "^4.0.0",
     "duplexer2": "~0.1.2",
     "events": "^3.0.0",
     "glob": "^7.1.0",
